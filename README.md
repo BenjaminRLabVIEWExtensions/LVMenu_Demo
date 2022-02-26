@@ -1,2 +1,1 @@
-# LVMenu_Demo
-LabVIEW Shortcut Menu Plug-In Example
+# LabVIEW Shortcut Menu Plug-In Example
